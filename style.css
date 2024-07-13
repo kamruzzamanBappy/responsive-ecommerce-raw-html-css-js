@@ -623,6 +623,10 @@ footer .copyright{
     color: #fff;
 }
 
+#prdetails .single-pro-details span{
+    line-height: 25px;
+}
+
 
 
 
@@ -829,6 +833,19 @@ footer .copyright {
     
     text-align: start;
 }
+
+/*single product */
+#prodetails {
+    display: flex;
+    flex-direction: column;
+}
+
+#prodetails .single-pro-image{
+    width: 100%;
+    margin-right: 0px;
+}
+
+
 
 }
 
